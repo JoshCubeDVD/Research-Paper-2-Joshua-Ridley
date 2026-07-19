@@ -1,2 +1,125 @@
 # Securing Record Communications TSEC/KW-26 Research Paper
 ## Introduction
+During the Cold War, the National Security Agency (NSA) along with the US Military developed 
+the TSEC/KW-26. This Machine was the first fully electronic on-line encryption device that was 
+used for securing teleprinter communications, making it one of the most important 
+cryptographic systems developed during the Cold War. Unlike earlier electromechanical cipher 
+machines that relied on rotating wheels and relays, the KW-26 used electronic circuitry and 
+magnetic core logic to automatically encrypt and decrypt messages transmitted over 
+communication networks. The system eventually became the backbone of secure record 
+communications for the US government, military services, intelligence agencies, and later NATO 
+allies.
+## Product Goals Identified by the NSA Record and Data Group
+When the NSA was established in 1952, the agency realized that existing cryptographic systems 
+were becoming inadequate for modern day communication requirements. According to 
+historical records, Howard Barlow, head of the NSA’s Record and Data group, initiated the 
+development of a fully electronic tele cipher system that would become the KW-26. The primary 
+goals of the NSA Record and Data group included:
+1.	Replacing slower electromechanical encryption/decryption devices with a fully 
+    electronic system.
+2.	Providing automatic encryption and decryption for continuous teleprinter 
+    communications.
+3.	Improving reliability and reducing maintenance associated with mechanical 
+    components.
+4.	Providing support for secure, around-the-clock communications for military and 
+    intelligence operations.
+5.	Providing traffic-flow security so that adversaries could not determine when actual 
+    messages were being transmitted.
+These goals reflected the increasing demand for secure, high-volume communications during 
+the Cold War.
+## Product Development and Life Cycle
+### Concept and Design
+Shortly after the creation of the NSA, development of the KW-26 began, as engineers Joe
+Hannan and Vern Ziegler led the technical effort to create a completely electronic cryptographic 
+device. This was a major technical leap as previous encryption systems relied on rotors and 
+mechanical switching mechanisms.
+### Prototype Development
+A prototype model was demonstrated in field tests during 1954. Prior to this demonstration, 
+Burroughs Corporation had been contacted to build preproduction units. Extensive testing and 
+evaluation occurred throughout 1955 to verify the machine’s performance and reliability.
+### Production
+The first major production contract was awarded to Burroughs in 1957. The initial order 
+consisted of approximately 1,500 units intended for the CRITICOMM communications network 
+and related signals intelligence requirements. The demand for the KW-26 rapidly expanded as 
+other military services recognized the advantages of the new system.
+### Deployment
+Beginning in the late 1950s and continuing through the early 1960s, thousands of units were 
+deployed throughout the US military and intelligence community. More than 14,000 units were 
+ultimately produced, making the KW-26 one of the most widely deployed cryptographic systems 
+in US history.
+### Maintenance and Support
+The NSA managed the KW-26 system throughout its operational life cycle. Responsibilities for 
+the KW-26 included operator training, technician training, spare parts acquisition, inventory 
+control, key management, publication of technical manuals, implementation of engineering 
+changes, and eventual decommissioning when it was time to retire the unit.
+### Retirement
+Beginning in the mid-1980s, the NSA gradually removed the KW-26 from service. Its 
+replacement was the TSEC/KG-84, which used solid-state electronics and offered improved 
+performance and security.
+## Applications and Customers
+The KW-26 served a wide variety of government organizations and communication networks. 
+One of the earliest and most important applications was the CRITICOMM network. This network 
+supported signals intelligence operations and enabled secure communications between 
+collection sites and NSA analysts. The KW-26 protected sensitive intelligence traffic while 
+providing continuous encryption of teleprinter communications. The KW-26 was also used by 
+the Defense Communications Agency to secure portions of the AUTODIN (Automatic Digital 
+Network) communications system. AUTODIN served as a critical message-switching network for 
+the Department of Defense, carrying military communications across the globe. Some 
+additional users included:
+1. US Navy shore facilities and shipboard communications
+2. US Army tactical communication systems
+3. US Air Force communication networks
+4. Central Intelligence Agency (CIA)
+5. US Department of State
+6. NATO allies
+This widespread adaptation of the KW-26 demonstrated its effectiveness and versatility 
+across multiple communication environments.
+## How Long it took to Develop the Machine
+Development on the KW-26 began shortly after the NSA was established in 1952. Initial 
+engineering contracts were awarded in 1953, prototype demonstrations occurred in 1954, and 
+full production began in 1957. Therefore, the development process took approximately five 
+years before the system entered operational service. This development timeline was considered 
+rapid given the technological challenges that were involved in creating the first fully 
+electronic cryptographic system.
+## How Long was the Machine in Service
+The KW-26 entered service in 1957 and remained in operation until the mid-1980s, when it was 
+replaced by the KG-84. This means the system served for approximately 28 to 30 years. It’s long 
+operational life reflects both the quality of the design and the difficulty of replacing a 
+cryptographic system that served a major role in military and government infrastructures.
+## Government Organizations that used the KW-26
+### National Security Agency
+The NSA developed, managed, and operated the system to protect signals intelligence 
+communications and other classified government traffic.
+### United States Navy
+The Navy used the KW-26 extensively for ship-to-shore, shore-to-ship, and shore-based 
+communication networks. Reliable encrypted communications were essential for fleet operations 
+and command-and-control functions.
+### United States Army
+The Army employed the system to secure tactical and strategic communication links between 
+commands and operational units.
+### United States Air Force
+The Air Force used the KW-26 to protect communications supporting military operations 
+and command networks.
+### Defense Communications Agency
+The DCA incorporated the KW-26 into major communications infrastructures such as AUTODIN 
+to provide secure transmission of military messages.
+### Central Intelligence Agency
+The KW-26 was used by the CIA to protect communications between headquarters and overseas 
+stations handling sensitive intelligence activities.
+### Department of State
+The State Department employed the system to secure diplomatic communications and classified 
+government messages transmitted between embassies and Washington D.C.
+These organizations relied on the KW-26 because it provided continuous encrypted 
+communications, traffic-flow security, and greater reliability then previous electromechanical 
+systems.
+## Conclusion
+All in all, the KW-26 represented a huge milestone in communications security. Developed 
+during the early years of the Cold War, it became the first widely deployed electronic encryption 
+system used by the US government. The device successfully achieved NSA goals by providing 
+affordable, reliable, and highly secure communications for military, intelligence, and diplomatic 
+users. Its service life of almost three decades demonstrates both the effectiveness of the design 
+and its importance to national security. The KW-26 helped establish the technological foundation 
+for later generations of electronic cryptographic systems and remains one of the most significant 
+achievements in the history of communications security.
+## Reference
+Klein, M. Securing Record Communications: The TSEC/KW-26.
